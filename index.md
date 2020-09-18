@@ -1,5 +1,5 @@
 ## Bergey Lab Guidelines and Tips
-Besides the rules for your program and university, here are a few guidelines and tips for the lab.
+Besides the rules for your program and university, here are a few guidelines and tips for the lab. More information can be found on our research group website at [bergey-lab.org](http://bergey-lab.org/).
 
 ### Major points:
 1. **Don’t be a jerk.**
